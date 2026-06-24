@@ -1,4 +1,4 @@
---- GITAM EXPENSE REPORT ---
-Initial Budget: Rs. 5000
-Total Amount Spent: Rs. 3500
-Final Remaining Balance: Rs. 1500
+--- STUDENT EXPENSE REPORT ---
+Initial Budget: Rs. 25000
+Total Amount Spent: Rs. 20000
+Final Remaining Balance: Rs. 5000
