@@ -1,0 +1,4 @@
+--- GITAM EXPENSE REPORT ---
+Initial Budget: Rs. 5000
+Total Amount Spent: Rs. 3500
+Final Remaining Balance: Rs. 1500
