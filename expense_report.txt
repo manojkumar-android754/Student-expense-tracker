@@ -1,4 +1,4 @@
 --- STUDENT EXPENSE REPORT ---
-Initial Budget: Rs. 25000
-Total Amount Spent: Rs. 20000
-Final Remaining Balance: Rs. 5000
+Initial Budget: Rs. 35000
+Total Amount Spent: Rs. 31000
+Final Remaining Balance: Rs. 4000
